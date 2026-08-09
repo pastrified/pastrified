@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Sam 👋</h1>
+<h1 align="center">Hi, I'm Kris 👋</h1>
 <hr/>
 
 <p align="center">
-  Passionate full-stack developer with a knack for building scalable, high-performance applications.  
-  I specialize in crafting innovative solutions across web and backend technologies.  
+  Software Engineer focused on I-Gaming Solutions
 </p>
 
 ---
@@ -26,18 +25,11 @@
 
 ---
 
-### About Me
-
-- Full-stack developer focused on building seamless user experiences  
-- Always exploring new technologies and frameworks
-- Open to collaborations and freelance opportunities  
-- Check out my repositories for open-source projects  
-
 ---
 
 ### Get in Touch
 
 <p align="center">
   <a href="https://github.com/lyfe-ui"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://discord.com/users/1412899022104035490"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://discord.com/users/1154569030733156365"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
